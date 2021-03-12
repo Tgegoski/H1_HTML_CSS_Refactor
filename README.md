@@ -1,7 +1,9 @@
 # 01 HTML CSS Git: Code Refactor
 
 ## Description
-The goal of this assignment is to refactor this site to be more accessible and easier to navigate. The code needs to be cleaned up to be more organized, without changing the way it functions. The CSS should be reorganized to match the layout and order of the HTML. CSS Selectors need to be consolidated to be more semantic to the HTML. Web Accessiblity is also becoming more important for companies to utilize.  Therefore, accessibility features need to be added to the site to make it easier for people with disabilities to access and be able to utilize captions, screen readers, and braille keyboards.   
+The goal of this assignment is to refactor this site to be more accessible and easier to navigate. The code needs to be cleaned up to be more organized, without changing the way it functions. The CSS should be reorganized to match the layout and semantic order of the HTML. CSS Selectors need to be consolidated to be more seamless. Web Accessiblity is becoming more important for companies to utilize.  Therefore, accessibility features need to be added to the site to make it easier for people with disabilities to access. This site should provide accessibiltiy features that can work with captions, screen readers, and braille keyboards.   
+
+Link to the deployed URL: https://tgegoski.github.io/H1_HTML_CSS_Refactor/
 
 ## User Story
 
@@ -39,9 +41,9 @@ Removed the closing extra li tags since they were not all needed for the unorder
 Consolidated CSS Selectors and organizing them to follow semantic structure of the HTML.
 ```
 
-Link to the deployed URL:
+Link to the deployed URL: https://tgegoski.github.io/H1_HTML_CSS_Refactor/
 
-Link to the Git Hub Repository:
+Link to the Git Hub Repository: https://github.com/Tgegoski/H1_HTML_CSS_Refactor.git
 
 Screenshots of the website: 
 
