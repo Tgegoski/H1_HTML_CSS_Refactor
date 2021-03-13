@@ -47,9 +47,10 @@ Link to the Git Hub Repository: https://github.com/Tgegoski/H1_HTML_CSS_Refactor
 
 Screenshots of the website: 
 
-(./assets/images/ScreenshotH1a.png)
-(./assets/images/ScreenshotH1b.png)
-(./assets/images/ScreenshotH1c.png)
+https://github.com/Tgegoski/H1_HTML_CSS_Refactor/issues/1#issue-830756276
 
+https://github.com/Tgegoski/H1_HTML_CSS_Refactor/issues/2#issue-830756925
+
+https://github.com/Tgegoski/H1_HTML_CSS_Refactor/issues/3#issue-830757360
 
 
